@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bulanik_Mantik_ODEV", "Bulanik_Mantik_ODEV\Bulanik_Mantik_ODEV.csproj", "{9C674936-72F0-4FF0-A620-9D681FB736C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C674936-72F0-4FF0-A620-9D681FB736C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C674936-72F0-4FF0-A620-9D681FB736C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C674936-72F0-4FF0-A620-9D681FB736C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C674936-72F0-4FF0-A620-9D681FB736C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AFF7599-C50C-4DF4-BE3C-5DDDFF09D9D2}
+	EndGlobalSection
+EndGlobal
